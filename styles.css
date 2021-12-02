@@ -1,0 +1,17 @@
+* {
+    border:1px red dotted;
+}
+
+.container {
+    width: 900px;
+}
+
+.row.top,
+.row.bottom{
+    height: 80px;
+}
+
+.day{
+    height: 140px;
+    
+}
